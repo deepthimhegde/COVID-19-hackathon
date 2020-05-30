@@ -9,7 +9,8 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 
 ```markdown
 
-Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ) to meet people and form groups.* 
+- Register [here](https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform)
+- Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ) to meet people and form groups.* 
 
 * *All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, so you have time to form groups.* 
 ```
@@ -22,15 +23,14 @@ Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_i
 - Best storytelling
 - Best visualization 
 - Best prediction model
-
-*Prizes upto $1500 to be won!*
+**_Prizes upto $1500 to be won!_**
 
 ### Judges
 
-- Anna Talman Rapp, program officer at Bill & Melinda Gates Foundation
-- Duncan Wadsworth, Data Scientist at Microsoft
-- Tim Randolph, Associate Member at Fred Hutchinson Cancer Research Center 
-- Ying Li, Chief Scientist at Giving Tech Labs
+- **Anna Talman Rapp**, program officer at Bill & Melinda Gates Foundation
+- **Duncan Wadsworth**, Data Scientist at Microsoft
+- **Tim Randolph**, Associate Member at Fred Hutchinson Cancer Research Center 
+- **Ying Li**, Chief Scientist at Giving Tech Labs
 
 ### Rules
 
