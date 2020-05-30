@@ -8,7 +8,7 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 ### Steps to participate in the hackathon
 
 - Register [here](https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform)
-- Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ) to meet people and form groups.* 
+- Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ) to meet people and form groups.`*` 
 
 `*` *All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, so you have time to form groups.* 
 
