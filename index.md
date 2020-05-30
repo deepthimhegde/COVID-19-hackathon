@@ -10,7 +10,7 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 - Register [here](https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform)
 - Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ) to meet people and form groups.* 
 
-* *All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, so you have time to form groups.* 
+`*` *All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, so you have time to form groups.* 
 
 ### Datasets
 *Coming soon (on 06/06/2020)*
@@ -21,7 +21,7 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 - Best visualization 
 - Best prediction model
 
-**_Prizes upto $1500 to be won!_** :trophy:
+**_Prizes upto $1500 to be won!_**
 
 ### Judges
 
@@ -44,6 +44,6 @@ Day 2: tbd*
 
 ### Organizers contact 
 
-:email: Sepi Dibay: dibay@uw.edu <br/>
-:email: Deepthi Hegde: dhegde@uw.edu
+Sepi Dibay: dibay@uw.edu <br/>
+Deepthi Hegde: dhegde@uw.edu
 
