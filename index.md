@@ -5,26 +5,33 @@
 
 Have you found yourself wondering how you can play a part in combating COVID-19 recently, all from the comforts of your home? Ponder no more! In response to the current events, UW MSDS proudly presents its first ever online hackathon. Come join us and help the efforts of the open source community and ongoing research by putting your data science caps on!
 
+### Steps to participate in the hackathon
 
 ```markdown
-Syntax highlighted code block
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+Register [here](https://docs.google.com/forms/d/1QlG4lGcHmwFnod49ee2MXcGkJI83ucaAVYNqs7R9GC4/edit?userstoinvite=sepiddibay%40gmail.com&ts=5ec978bc&actionButton=1) 
+Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ) to meet people and form groups.* 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+* *All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, so you have time to form groups.* 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Datasets:
+*Coming soon (on 06/06/2020)*
+
+### Prizes to be won
+
+- Best storytelling
+- Best visualization 
+- Best prediction model
+
+*Prizes upto $1500 to be won!*
+
+### Judges
+
+- Anna Talman Rapp, program officer at Bill & Melinda Gates Foundation
+- Duncan Wadsworth, Data Scientist at Microsoft
+- Tim Randolph, Associate Member at Fred Hutchinson Cancer Research Center 
+- Ying Li, Chief Scientist at Giving Tech Labs
 
 ### Rules
 
@@ -32,9 +39,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - One person cannot participate in more than one team.
 - Each team can only make one submission as a single sharable link.
 
+### Schedule
+*Day 1: tbd
+Day 2: tbd*
 
 ### Organizers contact
 
-Sepi Dibay: dibay@uw.edu
+Sepi Dibay: dibay@uw.edu <br/>
 Deepthi Hegde: dhegde@uw.edu
 
