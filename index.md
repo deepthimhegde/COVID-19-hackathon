@@ -1,6 +1,3 @@
-## COVID-19 Data Science Hackathon
-
-
 ### About this hackathon 
 
 Have you found yourself wondering how you can play a part in combating COVID-19 recently, all from the comforts of your home? Ponder no more! In response to the current events, UW MSDS proudly presents its first ever online hackathon. Come join us and help the efforts of the open source community and ongoing research by putting your data science caps on!
