@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## COVID-19 Data Science Hackathon
 
-You can use the [editor on GitHub](https://github.com/deepthimhegde/COVID-19-hackathon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About this hackathon 
 
-### Markdown
+Have you found yourself wondering how you can play a part in combating COVID-19 recently, all from the comforts of your home? Ponder no more! In response to the current events, UW MSDS proudly presents its first ever online hackathon. Come join us and help the efforts of the open source community and ongoing research by putting your data science caps on!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +26,15 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Rules
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deepthimhegde/COVID-19-hackathon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- You can participate either individually or in teams of 2-4 members. 
+- One person cannot participate in more than one team.
+- Each team can only make one submission as a single sharable link.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Organizers contact
+
+Sepi Dibay: dibay@uw.edu
+Deepthi Hegde: dhegde@uw.edu
+
