@@ -8,8 +8,7 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 ### Steps to participate in the hackathon
 
 ```markdown
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
-Register [here](https://docs.google.com/forms/d/1QlG4lGcHmwFnod49ee2MXcGkJI83ucaAVYNqs7R9GC4/edit?userstoinvite=sepiddibay%40gmail.com&ts=5ec978bc&actionButton=1) 
+
 Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ) to meet people and form groups.* 
 
 * *All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, so you have time to form groups.* 
@@ -40,7 +39,7 @@ Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_i
 - Each team can only make one submission as a single sharable link.
 
 ### Schedule
-*Day 1: tbd
+*Day 1: tbd <br/>
 Day 2: tbd*
 
 ### Organizers contact
